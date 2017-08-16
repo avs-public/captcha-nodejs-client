@@ -1,0 +1,36 @@
+{
+  "name": "avs-captcha",
+  "version": "1.0.0",
+  "description": "Voice CAPTCHA Node.js integration library",
+  "main": "index.js",
+  "dependencies": {
+    "request-promise": "^4.2.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avs-public/captcha-nodejs-client.git"
+  },
+  "keywords": [
+    "voice",
+    "captcha",
+    "CAPTCHA",
+    "avs",
+    "voice",
+    "agile",
+    "voice",
+    "agile",
+    "voice",
+    "services"
+  ],
+  "author": "Agile Voice Services, Inc.",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/avs-public/captcha-nodejs-client/issues"
+  },
+  "homepage": "https://github.com/avs-public/captcha-nodejs-client#readme"
+}
