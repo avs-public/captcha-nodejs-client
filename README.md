@@ -11,13 +11,17 @@ the key automatically. In the meantime, you can submit a request for a key by go
 The API offers multiple CAPTCHA configurations and will add additional ones in the future.
 
 Type   | Length |     Characteritic             | API cc parameter value
+
 Number |    2   |   Different Voices            |      1
+
 Number |    2   |   Different Voices / Noises   |      2
 
 Number |    3   |   Different Voices		|      3
+
 Number |    3   |   Different Voices / Noises  	|      4
 
 Number |    4   |   Different Voices            |      5
+
 Number |    4   |   Different Voices / Noises   |      6
 
 
