@@ -1,6 +1,5 @@
 # captcha-nodejs-client
 Voice CAPTCHA node.js client
-<<<<<<< HEAD
 
 This is a node.js client for the voice CAPTCHA service.
 See the "test.js" file for the sample integrations.
@@ -23,5 +22,3 @@ Number |    4   |   Different Voices / Noises   |      6
 
 
 For any questions, custom CAPTCHA configurations, or integration support, please contact us by going to https://avs.cloud/captcha.
-=======
->>>>>>> dc2056e... Initial commit
